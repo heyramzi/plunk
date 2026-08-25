@@ -9812,7 +9812,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"dompurify@npm:*, dompurify@npm:^3.4.0":
+"dompurify@npm:*":
   version: 3.4.0
   resolution: "dompurify@npm:3.4.0"
   dependencies:
@@ -9821,6 +9821,18 @@ __metadata:
     "@types/trusted-types":
       optional: true
   checksum: 10c0/5593ac44ee20b9aa521c2120884effc98927fb9128c548183c75e79e0a04357c62ee913a049a267c8f396cb8c9d520ecf72562826c5524c46d4fe03c12063638
+  languageName: node
+  linkType: hard
+
+"dompurify@npm:^3.4.13":
+  version: 3.4.13
+  resolution: "dompurify@npm:3.4.13"
+  dependencies:
+    "@types/trusted-types": "npm:^2.0.7"
+  dependenciesMeta:
+    "@types/trusted-types":
+      optional: true
+  checksum: 10c0/9c2a1a71e1a1d8b77953db7a39ffc935ef4ed4f10fe40770232128c2cbfd4c3dc677d3d7bae51eb24cc52d9ff3548612dc540ecb4343e89b26e809d2be2e0cfe
   languageName: node
   linkType: hard
 
@@ -19466,7 +19478,7 @@ __metadata:
     "@xyflow/react": "npm:^12.9.3"
     dagre: "npm:^0.8.5"
     dayjs: "npm:^1.11.19"
-    dompurify: "npm:^3.4.0"
+    dompurify: "npm:^3.4.13"
     framer-motion: "npm:^12.23.24"
     juice: "npm:^11.0.3"
     lucide-react: "npm:^0.553.0"
