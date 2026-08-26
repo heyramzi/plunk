@@ -1,0 +1,8 @@
+.claude/rules/architecture.md
+.claude/rules/env-vars.md
+.claude/rules/fallow.md
+.claude/rules/scale.md
+DESIGN.md
+packages/db/prisma.config.ts
+pnpm-workspace.yaml
+renovate.json

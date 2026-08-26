@@ -1,0 +1,13 @@
+repo: plunk
+archived: 2026-08-26
+remotes:
+heyramzi	https://github.com/heyramzi/plunk.git (fetch)
+heyramzi	https://github.com/heyramzi/plunk.git (push)
+origin	https://github.com/useplunk/plunk.git (fetch)
+origin	https://github.com/useplunk/plunk.git (push)
+
+branches:
+fix/protect-custom-html-mode-switch upstream=heyramzi/fix/protect-custom-html-mode-switch [ahead 1]
+next upstream=origin/next [ahead 4]
+
+HEAD: 790de936aae6132c35e11ff5ba9a7babca6a0c42 fix/protect-custom-html-mode-switch

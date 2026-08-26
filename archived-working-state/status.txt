@@ -1,0 +1,25 @@
+ M .github/workflows/ci.yml
+D  .impeccable.md
+D  .yarn/releases/yarn-4.9.1.cjs
+ M CLAUDE.md
+ M apps/api/package.json
+ M apps/api/src/database/prisma.ts
+ M apps/api/src/services/__tests__/WorkflowService.test.ts
+MM apps/smtp/package.json
+ M apps/smtp/src/database/prisma.ts
+ M package.json
+MM packages/db/package.json
+ M packages/db/prisma/schema.prisma
+M  packages/eslint-config/package.json
+M  packages/shared/package.json
+M  packages/types/package.json
+ M pnpm-lock.yaml
+ M test/helpers/database.ts
+ M test/performance/pagination.perf.test.ts
+ M vitest.config.ts
+D  yarn.lock
+?? .claude/
+?? DESIGN.md
+?? packages/db/prisma.config.ts
+?? pnpm-workspace.yaml
+?? renovate.json
